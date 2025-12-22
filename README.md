@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saharsh3008/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/saharsh3008/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/saharsh3008/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/saharsh3008/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saharsh3008/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saharsh3008/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/saharsh3008/DSA/tree/master/0493-reverse-pairs) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/saharsh3008/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saharsh3008/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Indexed Tree
 |  |
