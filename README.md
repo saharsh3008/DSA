@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saharsh3008/DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/saharsh3008/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saharsh3008/DSA/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/saharsh3008/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saharsh3008/DSA/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saharsh3008/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/saharsh3008/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/saharsh3008/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
