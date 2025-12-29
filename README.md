@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/saharsh3008/DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/saharsh3008/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saharsh3008/DSA/tree/master/0054-spiral-matrix) |
+| [0090-subsets-ii](https://github.com/saharsh3008/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/saharsh3008/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saharsh3008/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/saharsh3008/DSA/tree/master/0493-reverse-pairs) |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/saharsh3008/DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/saharsh3008/DSA/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/saharsh3008/DSA/tree/master/0577-employee-bonus) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/saharsh3008/DSA/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/saharsh3008/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
