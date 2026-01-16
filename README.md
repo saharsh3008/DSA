@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/saharsh3008/DSA/tree/master/0131-palindrome-partitioning) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/saharsh3008/DSA/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/saharsh3008/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Linked List
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/saharsh3008/DSA/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [1573-number-of-ways-to-split-a-string](https://github.com/saharsh3008/DSA/tree/master/1573-number-of-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
