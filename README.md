@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saharsh3008/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saharsh3008/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saharsh3008/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1626-best-team-with-no-conflicts](https://github.com/saharsh3008/DSA/tree/master/1626-best-team-with-no-conflicts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/saharsh3008/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saharsh3008/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saharsh3008/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1626-best-team-with-no-conflicts](https://github.com/saharsh3008/DSA/tree/master/1626-best-team-with-no-conflicts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/saharsh3008/DSA/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/saharsh3008/DSA/tree/master/0131-palindrome-partitioning) |
+| [1626-best-team-with-no-conflicts](https://github.com/saharsh3008/DSA/tree/master/1626-best-team-with-no-conflicts) |
 ## Hash Table
 |  |
 | ------- |
