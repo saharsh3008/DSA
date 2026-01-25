@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/saharsh3008/DSA/tree/master/0131-palindrome-partitioning) |
+| [0451-sort-characters-by-frequency](https://github.com/saharsh3008/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/saharsh3008/DSA/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/saharsh3008/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Linked List
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/saharsh3008/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saharsh3008/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saharsh3008/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/saharsh3008/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1626-best-team-with-no-conflicts](https://github.com/saharsh3008/DSA/tree/master/1626-best-team-with-no-conflicts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saharsh3008/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/saharsh3008/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saharsh3008/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0451-sort-characters-by-frequency](https://github.com/saharsh3008/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/saharsh3008/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-number-of-ways-to-split-a-string](https://github.com/saharsh3008/DSA/tree/master/1573-number-of-ways-to-split-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/saharsh3008/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/saharsh3008/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
