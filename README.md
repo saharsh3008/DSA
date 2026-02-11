@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/saharsh3008/DSA/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/saharsh3008/DSA/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/saharsh3008/DSA/tree/master/0577-employee-bonus) |
+| [1683-invalid-tweets](https://github.com/saharsh3008/DSA/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/saharsh3008/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/saharsh3008/DSA/tree/master/1795-rearrange-products-table) |
 ## Backtracking
