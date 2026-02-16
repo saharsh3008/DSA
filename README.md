@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/saharsh3008/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/saharsh3008/DSA/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/saharsh3008/DSA/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/saharsh3008/DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/saharsh3008/DSA/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/saharsh3008/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/saharsh3008/DSA/tree/master/1795-rearrange-products-table) |
